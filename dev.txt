@@ -1,0 +1,2 @@
+ompute Engine – disabling and re-enabling proactive instance redistribution: beta
+Proactive instance redistribution, which is enabled by default for regional managed instance groups, can now be disabled if you need to manually manage the number of instances in each zone
